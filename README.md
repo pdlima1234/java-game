@@ -15,6 +15,6 @@ Happy playing!
 
 ## Screenshots
 #### Level 1 #### 
-![Start screen](https://raw.githubusercontent.com/pdlima1234/java-game/main/screenshots/lvl2.PNG)
+![Start screen](https://raw.githubusercontent.com/pdlima1234/java-game/main/screenshots/lvl1.PNG)
 #### Level 2 #### 
 ![In-game play](https://raw.githubusercontent.com/pdlima1234/java-game/main/screenshots/level2.PNG)
